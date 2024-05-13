@@ -1,1 +1,2 @@
 # Automated-Pumping
+The project's goal is to create an automated water pump system that conserves water and electricity by controlling pump operation based on water levels. Additionally, it incorporates water quality monitoring and provides a user-friendly interface, contributing to societal benefits such as cost-effectiveness, energy savings, time efficiency, and minimal maintenance requirements.
